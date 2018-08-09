@@ -1,0 +1,21 @@
+html {
+    border: 25px solid lightgray;
+    margin: 50px;
+}
+
+.date {
+    color: mediumaquamarine;
+}
+
+h2 {
+
+    color: darkslategrey;
+}
+
+.quote {
+    border-left: 8px solid lightslategray;
+}
+
+p {
+    text-align: left;
+}
